@@ -1,0 +1,7 @@
+{
+  "name": "OCDB - O Caminho Do Baile",
+  "description": "Sistema inteligente para expansão de agenda de bandas através de análise de prints de agendas, organização regional e cálculo de distâncias.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
